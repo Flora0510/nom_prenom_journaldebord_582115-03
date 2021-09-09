@@ -1,6 +1,3 @@
 # Cours 1
-## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-
 ## Pourquoi j'ai choisi l'intégration multimédia
-J'ai choisi 
+J'ai choisi l'intégration multimédia parce que j'aime beaucoup la réalité virtuelle et le web. Le cours de modélisation 3d me motive beaucoup puisqu'il me permettra de créer des modèles qui pourront être intégrés dans un jeu en VR. Plus tard, j'aimerais travailler pour une compagnie comme X parce que ... 
